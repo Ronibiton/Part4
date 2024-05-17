@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roni\\Documents\\Project\\Part4\\Part4 - 2048\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CB71CC-801C-4C35-AF8A-E7193EF53929}|Part4 - 2048\\Part4 - 2048.csproj|c:\\users\\roni\\documents\\project\\part4\\part4 - 2048\\part4 - 2048\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CB71CC-801C-4C35-AF8A-E7193EF53929}|Part4 - 2048\\Part4 - 2048.csproj|solutionrelative:part4 - 2048\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CB71CC-801C-4C35-AF8A-E7193EF53929}|Part4 - 2048\\Part4 - 2048.csproj|c:\\users\\roni\\documents\\project\\part4\\part4 - 2048\\part4 - 2048\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CB71CC-801C-4C35-AF8A-E7193EF53929}|Part4 - 2048\\Part4 - 2048.csproj|solutionrelative:part4 - 2048\\options.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CB71CC-801C-4C35-AF8A-E7193EF53929}|Part4 - 2048\\Part4 - 2048.csproj|c:\\users\\roni\\documents\\project\\part4\\part4 - 2048\\part4 - 2048\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CB71CC-801C-4C35-AF8A-E7193EF53929}|Part4 - 2048\\Part4 - 2048.csproj|solutionrelative:part4 - 2048\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\Roni\\Documents\\Project\\Part4\\Part4 - 2048\\Part4 - 2048\\Board.cs",
+              "RelativeDocumentMoniker": "Part4 - 2048\\Board.cs",
+              "ToolTip": "C:\\Users\\Roni\\Documents\\Project\\Part4\\Part4 - 2048\\Part4 - 2048\\Board.cs",
+              "RelativeToolTip": "Part4 - 2048\\Board.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:16:27.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Options.cs",
+              "DocumentMoniker": "C:\\Users\\Roni\\Documents\\Project\\Part4\\Part4 - 2048\\Part4 - 2048\\Options.cs",
+              "RelativeDocumentMoniker": "Part4 - 2048\\Options.cs",
+              "ToolTip": "C:\\Users\\Roni\\Documents\\Project\\Part4\\Part4 - 2048\\Part4 - 2048\\Options.cs",
+              "RelativeToolTip": "Part4 - 2048\\Options.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:07:50.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roni\\Documents\\Project\\Part4\\Part4 - 2048\\Part4 - 2048\\Program.cs",
+              "RelativeDocumentMoniker": "Part4 - 2048\\Program.cs",
+              "ToolTip": "C:\\Users\\Roni\\Documents\\Project\\Part4\\Part4 - 2048\\Part4 - 2048\\Program.cs",
+              "RelativeToolTip": "Part4 - 2048\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T12:00:54.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
